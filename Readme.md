@@ -2,6 +2,9 @@
 
 ## 可拖拽式待办清单
 
+预览：
+![预览](https://raw.githubusercontent.com/prajnaHT/demo/master/preview.jpg)
+
 作用： 这个小DEMO可以用来记录待办清单、删除已完成事项。
 
 特点1：预留两个可拖拽的DIV面板。
